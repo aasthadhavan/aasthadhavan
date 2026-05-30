@@ -5,12 +5,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aastha-dhavan-b56077333/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="LinkedIn">
-    LinkedIn
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aasthadhavan@gmail.com">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWFxendidXUzMG1na2FmdW16Yml0MTBoNGloeHB4aWJ0eDlhYXo4ciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iPRtIf0OlGlSnNfV7W/giphy.webp" width="24" alt="Email">
-    Mail
+    <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWFxendidXUzMG1na2FmdW16Yml0MTBoNGloeHB4aWJ0eDlhYXo4ciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iPRtIf0OlGlSnNfV7W/giphy.webp" width="28" alt="Email">
   </a>
 </p>
