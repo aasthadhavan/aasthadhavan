@@ -2,7 +2,6 @@
 <h3 align="center">CS Undergraduate | Specializing in DevOps</h3>
 
 <p align="left">
-Find Me At 
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ1YjN3a3Y0M3p2cTNtZDM1ZTU3a3ltc3lqZTg2emptMmxjb3psOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/a9eTxCdJhDU98Jp79g/giphy.webp"  Linkedin 
+Find Me At
+  Linkedin 
 </p>
