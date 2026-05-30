@@ -1,14 +1,14 @@
 <h2 align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWh4bWFwMWFlem9jdXh6OWs3b3FmbHd0czh0a3dpYzhjODd0eDYxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dJI0Nq1CZOoZQfDIcY/giphy.gif" width="40" height="40"></h2> 
 <h3 align="center">CS Undergraduate | Specializing in DevOps</h3>
 
-<h5 align="center">Find Me At</h5>
+<h4 align="center">Find Me At</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aastha-dhavan-b56077333/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="LinkedIn">
     LinkedIn
   </a>
-  &nbsp;&nbsp;✦&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aasthadhavan@gmail.com">
     <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWFxendidXUzMG1na2FmdW16Yml0MTBoNGloeHB4aWJ0eDlhYXo4ciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iPRtIf0OlGlSnNfV7W/giphy.webp" width="24" alt="Email">
     Mail
