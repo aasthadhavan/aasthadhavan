@@ -1,4 +1,2 @@
-<h2 align="center">Aastha Dhavan</h2> 
-<h3 align="center">CS Undergraduate | Specializing in DevOps
-<img  src= "https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDJib2hvamkyanoxYndwajJtbXhqcGhwOW84a3RyOTF3bnhuZ2M1OSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/eynY4IG6LSFZlzKi4A/giphy.webp">
-</h3>
+<h2 align="center">Aastha Dhavan<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/dJI0Nq1CZOoZQfDIcY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/regards-zasha-rulocapirulo-dJI0Nq1CZOoZQfDIcY">via GIPHY</a></p></h2> 
+<h3 align="center">CS Undergraduate | Specializing in DevOps</h3>
