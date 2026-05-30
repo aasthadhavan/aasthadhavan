@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aastha-dhavan-b56077333/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" alt="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:aasthadhavan@gmail.com">
