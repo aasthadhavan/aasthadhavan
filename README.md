@@ -2,13 +2,14 @@
 <h3 align="center">CS Undergraduate | Specializing in DevOps</h3>
 
 <p>
-  <b><i>Find Me At:</i></b>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/aastha-dhavan-b56077333/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="mailto:aasthadhavan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
+  <b><i>Find Me At</i></b>
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16">
+  <a href="https://www.linkedin.com/in/aastha-dhavan-b56077333/">Aastha Dhavan</a>
+</p>
+
+<p>
+  📧 <a href="mailto:aasthadhavan@gmail.com">aasthadhavan@gmail.coma>
 </p>
