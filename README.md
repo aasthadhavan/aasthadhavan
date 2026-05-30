@@ -2,7 +2,7 @@
 <h3 align="center">CS Undergraduate | Specializing in DevOps</h3>
 
 <p>
-  <h6>Find Me At</h6>
+  <h4>Find Me At</h4>
 </p>
 
 <p>
