@@ -18,6 +18,6 @@
       width="32"
       alt="Email"
     />
-    aasthadhavan@gmail.com
+    Mail
   </a>
 </p>
