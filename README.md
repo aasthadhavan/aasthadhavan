@@ -4,13 +4,10 @@
 <p>
   <h5>Find Me At</h5>
 </p>
-
 <p>
   <a href="https://www.linkedin.com/in/aastha-dhavan-b56077333/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn">
-      
-    
-  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" alt="LinkedIn">
+    LinkedIn
   </a>
 </p>
 
