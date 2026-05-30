@@ -1,2 +1,2 @@
-<h2 align="center">Aastha Dhavan<img width="50" height="50" src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDU5OHhnYmozeXl6dXI0dzJsd3Jwem51YWwzZzk3OXlya2s5bmtkaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/c5o9wg2A6MqA0/giphy.webp" /></h2> 
+<h2 align="center">Aastha Dhavan<img width="50" height="50" <iframe src="https://giphy.com/embed/8nH6xtdefALrKslyrj" width="419" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/pixel-8bit-sprite-8nH6xtdefALrKslyrj">via GIPHY</a></p></h2> 
 <h3 align="center">CS Undergraduate | Specializing in DevOps</h3>
