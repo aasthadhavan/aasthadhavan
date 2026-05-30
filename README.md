@@ -7,7 +7,7 @@
 <p>
   <a href="https://www.linkedin.com/in/aastha-dhavan-b56077333/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="LinkedIn">
-    LinkedIn
+     LinkedIn
   </a>
 </p>
 
