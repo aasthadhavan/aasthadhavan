@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn">
       
     
-    LinkedIn
+  
   </a>
 </p>
 
