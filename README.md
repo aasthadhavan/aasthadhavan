@@ -2,7 +2,6 @@
 <h3 align="center">CS Undergraduate | Specializing in DevOps</h3>
 
 <h4 align="center">Find Me At</h4>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/aastha-dhavan-b56077333/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" alt="LinkedIn">
